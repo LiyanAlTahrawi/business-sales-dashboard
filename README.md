@@ -281,6 +281,11 @@ This project successfully demonstrates a complete end-to-end Data Science workfl
 
 The final result is a business-oriented analytics platform capable of transforming raw sales data into interactive insights and predictive business intelligence.
 
+## Full Technical Report
+
+View Full Project Report Here:
+[Gamma Report](https://gamma.app/docs/Business-Sales-Intelligence-Dashboard-fbchz86ok5acmth)
+
 ---
 
 # Author
