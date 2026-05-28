@@ -1,5 +1,3 @@
-# business-sales-dashboard
-Machine learning-powered sales forecasting and business intelligence dashboard using Python, Scikit-Learn, Pandas, and Streamlit with interactive filtering and KPI analysis.
 # Business Sales Intelligence Dashboard with Machine Learning Forecasting
 
 An end-to-end Data Science and Business Intelligence project focused on sales analysis, forecasting, and interactive dashboard development using Python, Scikit-Learn, Pandas, and Streamlit with interactive filtering and KPI analysis.
